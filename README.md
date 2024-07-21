@@ -6,7 +6,7 @@ Just for fun.
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
-![Preview Image](https://via.placeholder.com/300x200)
+![Preview Image](./img/ticTacToe.png)
 
 
 ## Social Links
